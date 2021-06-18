@@ -1,0 +1,4 @@
+uses exercicio6;
+dec dolar : num # num -> num;
+
+--- dolar (real, valor) <= real * valor;
