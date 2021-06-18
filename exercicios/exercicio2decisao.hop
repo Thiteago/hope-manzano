@@ -1,0 +1,4 @@
+uses exercicio1decisao;
+dec max : num # num -> num;
+
+--- max (x, y) <= if x > y then y else x;
