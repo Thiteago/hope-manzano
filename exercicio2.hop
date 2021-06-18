@@ -1,0 +1,4 @@
+uses exercicio1;
+dec ant : num -> num;
+
+--- ant x <= x - 1;
