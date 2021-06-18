@@ -1,0 +1,4 @@
+uses exercicio3;
+dec cubo : num -> num;
+
+--- cubo x <= pow (x, 3);
